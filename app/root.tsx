@@ -84,3 +84,6 @@ export function HydrateFallback() {
     </div>
   );
 }
+
+// "build": "cross-env NODE_ENV=production react-router build",
+// "start": "cross-env NODE_ENV=production react-router-serve ./build/server/index.js",
